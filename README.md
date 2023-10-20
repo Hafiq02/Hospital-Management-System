@@ -1,4 +1,4 @@
-# Hospital-Management-System
+# Hospital-Management-System using CPP
 C++ code for hospital management system
 
 This C++ program models a Hospital Management System, which allows users to manage patient data, including their personal information, blood type, gender, and admission details. The system supports adding patients to different queues based on their condition (normal or critically ill). Patients can also be assigned to doctors, and their information can be displayed. Additionally, the system calculates bills for inpatients, considering factors like ward and bed number, daily charges, and prescribed drugs.
